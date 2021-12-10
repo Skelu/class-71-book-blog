@@ -1,0 +1,35 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_mainDiv{
+    border: 2px solid black;
+    padding-left:0px;
+    padding-right: 0px;
+float: none;
+margin-left: 50px;
+}
+.travel_mainDiv img{
+width: 80%;
+margin-top: 50px;
+}
+.environment_li{
+    margin-top:13px;
+}
+.environment_li h4{
+    border-bottom: 2px solid white;
+    padding: 8px;
+}
